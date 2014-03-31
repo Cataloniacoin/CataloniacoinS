@@ -1,0 +1,10 @@
+Building Cataloniacoin
+
+See doc/readme-qt.rst for instructions on building Cataloniacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cataloniacoin.
+
+See doc/build-*.txt for instructions on building cataloniacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cataloniacoin.
+

@@ -1,0 +1,6 @@
+cataloniacoin-qt usr/bin
+share/pixmaps/cataloniacoin32.xpm usr/share/pixmaps
+share/pixmaps/cataloniacoin16.xpm usr/share/pixmaps
+share/pixmaps/cataloniacoin128.png usr/share/pixmaps
+debian/cataloniacoin-qt.desktop usr/share/applications
+debian/cataloniacoin-qt.protocol usr/share/kde4/services/
